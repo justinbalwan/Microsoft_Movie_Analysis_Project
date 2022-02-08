@@ -55,7 +55,7 @@ __Build partnerships with studios such as MUBI, Spanglish, Super, Blue Fox, or R
 
 ## For More Information
 
-Please review my full analysis in [my Jupyter Notebook](./dsc-phase1-project-template.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
+Please review my full analysis in [my Jupyter Notebook](./Microsoft_Movie_Analysis.ipynb) or my [presentation](./Microsoft_Movie_Analysis.pdf).
 
 For any additional questions, please contact **Justin Balwan || justinbalwan20@gmail.com**
 
@@ -65,8 +65,8 @@ Describe the structure of your repository and its contents, for example:
 
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
-├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
+├── Microsoft_Movie_Analysis.ipynb   <- Narrative documentation of analysis in Jupyter notebook
+├── Microsoft_Movie_Analysis.pdf         <- PDF version of project presentation
 ├── data                                <- Both sourced externally and generated from code
 └── images                              <- Both sourced externally and generated from code
 ```
