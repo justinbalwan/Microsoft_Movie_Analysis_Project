@@ -55,7 +55,7 @@ __Build partnerships with studios such as MUBI, Spanglish, Super, Blue Fox, or R
 
 ## For More Information
 
-Please review my full analysis in [my Jupyter Notebook](./Microsoft_Movie_Analysis.ipynb) or my [presentation](./Microsoft_Movie_Analysis.pdf).
+Please review my full analysis in [my Jupyter Notebook](./Microsoft_Movie_Analysis.ipynb) or my [presentation](./Microsoft Movie Analysis.pdf).
 
 For any additional questions, please contact **Justin Balwan || justinbalwan20@gmail.com**
 
