@@ -21,21 +21,21 @@ For this project, descriptive analysis was conducted to show the top worldwide g
 
 ## Results
 
-The top grossing genres were Fantasy, Musical, Sci-Fi, Adventure, and Animation.
+The top grossing genres were Animation, Adventure, Sci-Fi, Musical, and Fantasy.
 
 ### Top Grossing Genres
 ![results1](./images/top_grossing_genres.png)
 
 
 
-The top grossing years were 2010, 2012, 2016, 2017, and 2018.
+The top grossing years were 2018, 2017, 2014, 2013, and 2016.
 
 ### Top Grossing Years
 ![results2](./images/top_grossing_years.png)
 
 
 
-The top grossing studios were MUBI, Spanglish, Super, Blue Fox, and RLJ. 
+The top grossing studios were P/DW (Paramount/Dreamworks), BV (Buena Vista), GrtIndia, Fox, and Sony. 
 
 ### Top Grossing Studios
 ![results3](./images/top_grossing_studios.png)
@@ -46,11 +46,11 @@ The top grossing studios were MUBI, Spanglish, Super, Blue Fox, and RLJ.
 ## Conclusions
 The analysis conducted produced three effective recommendations for Microsoft's Movie Studio: 
 
-__Create movies that are either fantasies, musicals, sci-fi's, adventures, or animations.__ Given the first results graph which depicts worldwide gross in correspondence to genres, Microsoft's Movie Studio should produce movies under these genres to reach a larger audience for their movies.
+__Create movies that are either animations, adventures, sci-fi's, musicals, and fantasies.__ Given the first results graph which depicts worldwide gross in correspondence to genres, Microsoft's Movie Studio should produce movies under these genres to reach a larger audience for their movies.
 
-__Study top movies from the years 2010, 2012, 2016, 2017, and 2018.__ The second results graph depicted the top worldwide grossing years. Microsoft's Movie Studio can view these years and study all kinds of variables – such as directors, actors/actresses, or regions – to see what went right. Hopefully, they will be able to emulate the tactics discovered.
+__Study top movies from the years 2018, 2017, 2014, 2013, and 2016.__ The second results graph depicted the top worldwide grossing years. Microsoft's Movie Studio can view these years and study all kinds of variables – such as directors, actors/actresses, or regions – to see what went right. They can also study external factors, such as the economy or customer preferences. Hopefully, they will be able to emulate the tactics discovered.
 
-__Build partnerships with studios such as MUBI, Spanglish, Super, Blue Fox, or RLJ.__ The third results graph depicted the top worldwide grossing studios. Since Microsoft's Movie Studio is a new studio, it will be difficult for them to compete against long-standing, already successful companies. Partnerships will make it easier for Microsoft's Movie Studio swiftly gain traction and become successful in a shorter time.
+__Build partnerships with studios such as P/DW, BV, GrtIndia, Fox, and Sony.__ The third results graph depicted the top worldwide grossing studios. Since Microsoft's Movie Studio is a new studio, it will be difficult for them to compete against long-standing, already successful companies. Partnerships will make it easier for Microsoft's Movie Studio swiftly gain traction and become successful in a shorter time.
 
 
 ## For More Information
@@ -66,7 +66,7 @@ Describe the structure of your repository and its contents, for example:
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
 ├── Microsoft_Movie_Analysis.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── Microsoft_Movie_Analysis.pdf         <- PDF version of project presentation
+├── presentation.pdf                 <- PDF version of project presentation
 ├── data                                <- Both sourced externally and generated from code
 └── images                              <- Both sourced externally and generated from code
 ```
